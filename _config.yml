@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "JeffKim의 개발 노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Konrad"
-description              : "An amazing website."
+name                     : "JeffKim"
+description              : "다양한 기술에 관심 많은 개발자의 우여곡절을 담을 노트 입니다."
 url                      : "https://konrad0713.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "JeffKim"
+  avatar           : "/images/avatar.jpg"
+  bio              : "저는 다양한 기술에 관심이 많습니다."
+  location         : "Korea"
+  email            :"root0607@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
